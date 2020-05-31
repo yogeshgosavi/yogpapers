@@ -1,14 +1,58 @@
 [{
-		"name": "Rick light wall",
+		"name": "flash White",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall51.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration"
+	},{
+		"name": "Flash yellow",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall52.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration"
+	},
+{
+		"name": "Material tiles 1",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall47.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration"
+	},{
+		"name": "Material tiles 2",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall49.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration"
+	},{
+		"name": "Material tiles 3",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall48.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration"
+	},
+{
+		"name": "Morty light wall",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall39.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "illustration"
 	},{
-		"name": "Rick dark wall",
+		"name": "Morty dark wall",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall40.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration"
+	},{
+		"name": "Morty yellow wall",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wallrickalt2.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "illustration"
