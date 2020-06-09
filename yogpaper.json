@@ -1,4 +1,71 @@
-[{
+[
+{
+		"name": "Alien White",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/walls16.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration"
+	},{
+		"name": "Alien Black",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/walls15.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration"
+	},{
+		"name": "Alien Grayscale",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/walls17.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration"
+	},{
+		"name": "Walking in house",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/walls14.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration"
+	},
+	{
+		"name": "Smiley yellow",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall63.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration"
+	},{
+		"name": "Smiley Green",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall62.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration"
+	},{
+		"name": "Airpods white",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/airpodsfinal2.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration"
+	},
+{
+		"name": "Airpods Blue",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/airpodsfinal3.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration"
+	},{
+		"name": "Airpods Yellow",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/airpodsfinal3.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration"
+	},
+{
 		"name": "Material Circle",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall61.png",
@@ -51,13 +118,6 @@
 		"name": " Sun Quote",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall60.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration"
-	},{
-		"name": " Yellow wall",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/shit2.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "illustration"
@@ -256,6 +316,20 @@
 		"name": "pattern black",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall17.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration"
+	},{
+		"name": "pattern dark yellow",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall17alt.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration"
+	},{
+		"name": "pattern dark Blur",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall17alt1.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "illustration"
