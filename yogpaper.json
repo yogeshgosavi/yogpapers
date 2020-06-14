@@ -1,10 +1,18 @@
-[{
-		"name": "Flash emblum White ",
+[
+{
+		"name": "Retro Sunset",
 		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall79.png",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall81.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,characters"
+		"collections": "illustration"
+	},{
+		"name": "Retro Sunrise",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall82.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration"
 	},{
 		"name": "Flash emblum Black ",
 		"author": "YoG",
