@@ -237,27 +237,6 @@
 		"collections": "illustration,setup specific",
 		"desc":"Just experimental Category for walls, adding wall restrictions while giving sweet empty place to make your setup look unique"
 	},{
-		"name": "Alien White",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/walls16.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,characters"
-	},{
-		"name": "Alien Black",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/walls15.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,characters"
-	},{
-		"name": "Alien Grayscale",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/walls17.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,characters"
-	},{
 		"name": "Walking in house",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/walls14.png",
@@ -641,13 +620,6 @@
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "simple,illustration"
-	},{
-		"name": "Battery Glitch",
-		"author": "YoG (CC Content)",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall12.png",
-		"downloadable": true,
-		"copyright": " Personal and Commercial Use",
-		"collections": "Copyrights friendly"
 	},{
 		"name": "Doodle Art",
 		"author": "YoG",
