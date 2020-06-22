@@ -24,6 +24,13 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,characters"
 	},{
+		"name": "Flash emblum white ",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall79.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,characters"
+	},{
 		"name": "Flash emblum Red ",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall78.png",
@@ -67,6 +74,29 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,Pattern"
 	},{
+		"name": "Pattern Pixel white",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall72alt.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,Pattern"
+	},{
+		"name": "Pattern Pixel colorlines dark",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall84.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,Pattern",
+		"desc":"maybe it doesn't look like pixel"
+	},{
+		"name": "Pattern Pixel colorlines white",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall83.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,Pattern",
+		"desc":"maybe it doesn't look like pixel"
+	},{
 		"name": "Pattern Grey",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall74.png",
@@ -95,9 +125,23 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,Pattern"
 	},{
-		"name": "Pattern Dual color Dull ",
+		"name": "Pattern Black and white",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall77.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,Pattern"
+	},{
+		"name": "Pattern Dual color black ",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall87.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,Pattern"
+	},{
+		"name": "Pattern orange dark ",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall85.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "illustration,Pattern"
@@ -174,7 +218,25 @@
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall67.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,setup specific"
+		"collections": "illustration,setup specific",
+		"desc":"i honestly love feel of using this wall for making setups, feels like holding notebook in hand"
+	},{
+		"name": "Device Mockup Light",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall67.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,setup specific",
+	"desc":"Just experimental Category for walls, sweet empty place to make your setup look unique"
+
+	},{
+		"name": "Device mockup Dark",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/mdspecialblack.jpg",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,setup specific",
+		"desc":"Just experimental Category for walls, adding wall restrictions while giving sweet empty place to make your setup look unique"
 	},{
 		"name": "Alien White",
 		"author": "YoG",
@@ -302,14 +364,27 @@
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall51.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,characters"
+		"collections": "illustration,characters",
+		"desc":"did you know flash wears magnetized sound receptors on his ears so that he can hear while travelling beyond the speed of sound "
+
 	},{
 		"name": "Flash yellow",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall52.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,characters"
+		"collections": "illustration,characters",
+		"desc":"did you know flash wears magnetized sound receptors on his ears , so that he can hear while travelling beyond the speed of sound "
+
+	},{
+		"name": "Flash black",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/flashalt.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,characters",
+		"desc":"did you know flash wears magnetized sound receptors on his ears , so that he can hear while travelling beyond the speed of sound "
+
 	},
 {
 		"name": "Material tiles 1",
@@ -524,37 +599,46 @@
 		"collections": "illustration,pattern"
 	},
 	{
-		"name": "ice Cream 1",
-		"author": "YoG",
-		"url": "https://raw.githubusercontent.com/yogeshgosavi/yogpapers/master/walls/icecream1.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,cute"
-	},{
-		"name": "ice Cream 2 ",
+		"name": "ice Cream 1 ",
 		"author": "YoG",
 		"url": "https://raw.githubusercontent.com/yogeshgosavi/yogpapers/master/walls/icecream2.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,cute"
+		"collections": "illustration,cute",
+		"desc": "made by following youtube video"
 	},{
-		"name": "ice Cream 3",
+		"name": "ice Cream 2",
 		"author": "YoG",
 		"url": "https://raw.githubusercontent.com/yogeshgosavi/yogpapers/master/walls/icecream3.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,cute"
+		"collections": "illustration,cute",
+		"desc": "just look at cute smile ;)"
 	},{
-		"name": "ice Cream 4",
+		"name": "ice Cream 3",
 		"author": "YoG",
 		"url": "https://raw.githubusercontent.com/yogeshgosavi/yogpapers/master/walls/icecream4.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "illustration,cute"
 	},{
-		"name": "Simple Wall",
+		"name": "ice Cream 4",
+		"author": "YoG",
+		"url": "https://raw.githubusercontent.com/yogeshgosavi/yogpapers/master/walls/icecream1.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,cute"
+	},{
+		"name": "Simple yellow wall",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall11.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "simple,illustration"
+	},{
+		"name": "Simple Blue wall",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall11alt.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "simple,illustration"
@@ -656,7 +740,9 @@
 		"url": "https://drive.google.com/uc?id=1i_9mjIoBAGNqT7EU2DyK5ODO-UmguXCt",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "Nature,illustration"
+		"collections": "Nature,illustration",
+		"desc": "this is my first nature illustration that i made following youtube video i loved how it turned out"
+
 	},
 	{
 		"name": "Parachute Night",
@@ -664,7 +750,9 @@
 		"url": "https://drive.google.com/uc?id=1IQlF-M-kddqCfjZP-K7poRUV9zM4q3J9",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "Nature,illustration"
+		"collections": "Nature,illustration",
+		"desc": "i made this illustration in beginning of 2019"
+
 	},
 	{
 		"name": "Green Moutain & Spaceships",
@@ -672,7 +760,8 @@
 		"url": "https://drive.google.com/uc?id=1ViAr6vAKZflwfjaB7G7oW9K9zt-WOF_o",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "Nature,illustration"
+		"collections": "Nature,illustration",
+		"desc": "this is one of my first nature illustration"
 	},{
 		"name": "Blob Wallpaper",
 		"author": "YoG",
@@ -684,6 +773,13 @@
 		"name": "Blue Blobs",
 		"author": "YoG",
 		"url": "https://drive.google.com/uc?id=13CTAqn7IWuHRyFFMpcV5_YUWAAR7lnLJ",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,simple,gradient"
+	},{
+		"name": "Blue Bobs Dot",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/blobbase.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "illustration,simple,gradient"
@@ -705,23 +801,15 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,gradient"
 	},
-	{
-		"name": "Blob Emoji Wallpaper",
-		"author": "YoG",
-		"url": "https://drive.google.com/uc?id=1-Bopt2_M1YOHoxz5ORt0b4SpfZtl6A1e",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,simple"
-	},
 	 {
-		"name": "Abstract Gradient",
+		"name": "Abstract Gradient Plus",
 		"author": "YoG",
 		"url": "https://drive.google.com/uc?id=1s4UWD48RKIhh6YWdH6hHpHJXQLpe907k",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "illustration,gradient,pattern"
 	},{
-		"name": "Plus wall",
+		"name": "X wall",
 		"author": "YoG",
 		"url": "https://drive.google.com/uc?id=1jI0Z7darOR4TiztAuSU7nEQ72409QhGC",
 		"downloadable": true,
