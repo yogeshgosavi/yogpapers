@@ -237,13 +237,6 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,Pattern"
 	},{
-		"name": "Pattern Dual color light ",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall76.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,Pattern"
-	},{
 		"name": "Pattern Black and white",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall77.png",
@@ -310,21 +303,6 @@
 		"collections": "illustration,fluid"
 	},
 {
-		"name": "Melting Pink White ",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/melt1.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,fluid"
-	},{
-		"name": "Melting Pink Black ",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/melt2.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,fluid"
-	},
-{
 		"name": "Notebook Cover",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wallpattern.png",
@@ -355,13 +333,6 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,setup specific",
 		"desc":"Just experimental Category for walls, adding wall restrictions while giving sweet empty place to make your setup look unique"
-	},{
-		"name": "Walking in house",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/walls14.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration"
 	},
 	{
 		"name": "Smiley yellow",
