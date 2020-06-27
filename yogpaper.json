@@ -119,7 +119,97 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,simple"
 	},
-	{
+{
+		"name": "Morty light wall",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall39.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,characters"
+	},{
+		"name": "Morty dark wall",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall40.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,characters"
+	},{
+		"name": "Morty yellow wall",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wallrickalt2.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,characters"
+	},{
+		"name": "flash White",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall51.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,characters",
+		"desc":"did you know flash wears magnetized sound receptors on his ears so that he can hear while travelling beyond the speed of sound "
+
+	},{
+		"name": "Flash yellow",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall52.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,characters",
+		"desc":"did you know flash wears magnetized sound receptors on his ears , so that he can hear while travelling beyond the speed of sound "
+
+	},{
+		"name": "Flash black",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/flashalt.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,characters",
+		"desc":"did you know flash wears magnetized sound receptors on his ears , so that he can hear while travelling beyond the speed of sound "
+
+	},{
+		"name": "Flash emblum Black ",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall80.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,characters"
+	},{
+		"name": "Flash emblum white ",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall79.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,characters"
+	},{
+		"name": "Flash emblum Red ",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall78.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,characters"
+	},{
+		"name": "Airpods white",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/airpodsfinal2.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,simple"
+	},{
+		"name": "Airpods Blue",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/airpodsfinal3.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,simple"
+	},{
+		"name": "Airpods Yellow",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/airpodsfinal4.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,simple"
+	},	{
 		"name": "Smiley yellow",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall63.png",
@@ -147,8 +237,38 @@
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "illustration,cute"
+	},{
+		"name": "Retro Sunset",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall81.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration",
+		"desc": "just another wallpaper inspired by all those retro sunsets\n You see on internet"
+	},{
+		"name": "Retro Blue",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall82.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration",
+		"desc": "just another wallpaper inspired by all those retro sunsets you see on internet"
+
+	},{
+		"name": "Avacado",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall43.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,simple"
+	},{
+		"name": "Space Wall",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/space1.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,simple"
 	},
-	
 	
 {
 		"name": "Pink Gradient Amoled",
@@ -267,45 +387,6 @@
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "illustration"
-	},
-{
-		"name": "Retro Sunset",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall81.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration",
-		"desc": "just another wallpaper inspired by all those retro sunsets\n You see on internet"
-	},{
-		"name": "Retro Sunrise",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall82.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration",
-		"desc": "just another wallpaper inspired by all those retro sunsets you see on internet"
-
-	},{
-		"name": "Flash emblum Black ",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall80.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,characters"
-	},{
-		"name": "Flash emblum white ",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall79.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,characters"
-	},{
-		"name": "Flash emblum Red ",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall78.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,characters"
 	},
 {
 		"name": "Pattern White",
@@ -484,28 +565,6 @@
 		"collections": "illustration,setup specific",
 		"desc":"Just experimental Category for walls, adding wall restrictions while giving sweet empty place to make your setup look unique"
 	},
-	{
-		"name": "Airpods white",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/airpodsfinal2.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,simple"
-	},{
-		"name": "Airpods Blue",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/airpodsfinal3.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,simple"
-	},{
-		"name": "Airpods Yellow",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/airpodsfinal4.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,simple"
-	},
 {
 		"name": "Material Circle",
 		"author": "YoG",
@@ -548,33 +607,6 @@
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "illustration,simple"
-	},{
-		"name": "flash White",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall51.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,characters",
-		"desc":"did you know flash wears magnetized sound receptors on his ears so that he can hear while travelling beyond the speed of sound "
-
-	},{
-		"name": "Flash yellow",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall52.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,characters",
-		"desc":"did you know flash wears magnetized sound receptors on his ears , so that he can hear while travelling beyond the speed of sound "
-
-	},{
-		"name": "Flash black",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/flashalt.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,characters",
-		"desc":"did you know flash wears magnetized sound receptors on his ears , so that he can hear while travelling beyond the speed of sound "
-
 	},
 {
 		"name": "Material tiles 1",
@@ -599,34 +631,6 @@
 		"collections": "illustration,Material"
 	},
 {
-		"name": "Morty light wall",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall39.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,characters"
-	},{
-		"name": "Morty dark wall",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall40.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,characters"
-	},{
-		"name": "Morty yellow wall",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wallrickalt2.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,characters"
-	},{
-		"name": "Avacado",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall43.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,simple"
-	},{
 		"name": "Stack Purple",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall41.png",
@@ -767,13 +771,6 @@
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "illustration,doodle"
-	},{
-		"name": "Space Wall 1",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/space1.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,simple"
 	},{
 		"name": "Darkness",
 		"author": "YoG",
