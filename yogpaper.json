@@ -305,6 +305,21 @@
 		"collections": "illustration,simple"
 	},
 	{
+		"name": "Blue Blobs",
+		"author": "YoG",
+		"url": "https://drive.google.com/uc?id=13CTAqn7IWuHRyFFMpcV5_YUWAAR7lnLJ",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,simple,gradient"
+	},{
+		"name": "Blue Bobs Dot",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/blobbase.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,simple,gradient"
+	},
+	{
 		"name": "Simple yellow wall",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall11.png",
@@ -320,82 +335,6 @@
 		"collections": "simple,illustration"
 	},
 	
-	
-	
-	
-	
-	
-	
-{
-		"name": "Pink Gradient Amoled",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall97.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,gradient",
-		"desc": "Beautiful Pink Wallpaper suitable for any setup"
-	},{
-		"name": "Purple Gradient Amoled",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall98.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,gradient",
-		"desc": "Beautiful Purple Wallpaper suitable for any setup"
-	},{
-		"name": "Blue Gradient Amoled",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall100.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,gradient",
-		"desc": "Beautiful Blue Wallpaper suitable for any setup"
-	},{
-		"name": "Yellow Gradient Amoled",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall99.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,gradient",
-		"desc": "Beautiful Yellow Wallpaper suitable for any setup"
-	},{
-		"name": "Mesh Gradient",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall19.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,gradient"
-	},{
-		"name": "Mesh Gradient",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall20.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,gradient"
-	},{
-		"name": "Mesh Gradient",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall21.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,gradient"
-	},{	"name": "Mesh Gradient Colorful",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall59.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,gradient"
-	},{
-		"name": "Gradient",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall58.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,gradient"
-	},
-
-
-
 {
 		"name": "White Grid Wallpaper",
 		"author": "YoG",
@@ -701,6 +640,28 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,fluid"
 	},
+	{
+		"name": "Material tiles 1",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall47.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,Material"
+	},{
+		"name": "Material tiles 2",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall49.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,Material"
+	},{
+		"name": "Material tiles 3",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall48.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,Material"
+	},
 {
 		"name": "Notebook Cover",
 		"author": "YoG",
@@ -756,35 +717,82 @@
 		"collections": "illustration,simple"
 	},
 {
-		"name": "Material tiles 1",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall47.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,Material"
-	},{
-		"name": "Material tiles 2",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall49.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,Material"
-	},{
-		"name": "Material tiles 3",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall48.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,Material"
-	},
-{
 		"name": "yellow tree",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall18.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "illustration,pattern"
+	},
+	{
+		"name": "Pink Gradient Amoled",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall97.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,gradient",
+		"desc": "Beautiful Pink Wallpaper suitable for any setup"
 	},{
+		"name": "Purple Gradient Amoled",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall98.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,gradient",
+		"desc": "Beautiful Purple Wallpaper suitable for any setup"
+	},{
+		"name": "Blue Gradient Amoled",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall100.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,gradient",
+		"desc": "Beautiful Blue Wallpaper suitable for any setup"
+	},{
+		"name": "Yellow Gradient Amoled",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall99.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,gradient",
+		"desc": "Beautiful Yellow Wallpaper suitable for any setup"
+	},{
+		"name": "Mesh Gradient",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall19.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,gradient"
+	},{
+		"name": "Mesh Gradient",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall20.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,gradient"
+	},{
+		"name": "Mesh Gradient",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall21.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,gradient"
+	},{	"name": "Mesh Gradient Colorful",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall59.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,gradient"
+	},{
+		"name": "Gradient",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall58.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,gradient"
+	},
+	
+	{
 		"name": "Darkness",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall1.png",
@@ -883,20 +891,6 @@
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "illustration"
-	},{
-		"name": "Blue Blobs",
-		"author": "YoG",
-		"url": "https://drive.google.com/uc?id=13CTAqn7IWuHRyFFMpcV5_YUWAAR7lnLJ",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,simple,gradient"
-	},{
-		"name": "Blue Bobs Dot",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/blobbase.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,simple,gradient"
 	},
 	{
 		"name": "Abstract Wallpaper",
