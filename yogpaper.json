@@ -359,6 +359,42 @@
 		"collections": "illustration,gradient",
 		"desc": "Beautiful Yellow Wallpaper suitable for any setup"
 	},{
+		"name": "Mesh Gradient",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall19.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,gradient"
+	},{
+		"name": "Mesh Gradient",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall20.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,gradient"
+	},{
+		"name": "Mesh Gradient",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall21.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,gradient"
+	},{	"name": "Mesh Gradient Colorful",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall59.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,gradient"
+	},{
+		"name": "Gradient",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall58.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,gradient"
+	},
+	
+	{
 		"name": "Material Waves 1",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall88.png",
@@ -629,20 +665,6 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,setup specific"
 	},{
-		"name": "Gradient",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall58.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,gradient"
-	},{
-		"name": "Mesh Gradient Colorful",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall59.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,gradient"
-	},{
 		"name": "Cross Pink",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall57.png",
@@ -680,27 +702,6 @@
 		"collections": "illustration,Material"
 	},
 {
-		"name": "Mesh Gradient",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall19.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,gradient"
-	},{
-		"name": "Mesh Gradient",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall20.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,gradient"
-	},{
-		"name": "Mesh Gradient",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall21.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,gradient"
-	},{
 		"name": "yellow tree",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall18.png",
