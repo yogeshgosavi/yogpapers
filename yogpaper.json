@@ -105,20 +105,51 @@
 		"collections": "illustration,cute",
 		"desc": "Just another Coffee Cup illustration , highly inspired by Ariev Soeharto video on how to draw Cute Cup"
 	},{
-		"name": "Ice cream Simple Pink",
+		"name": "Ice cream Pink",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall101.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,cute"
+		"collections": "illustration,simple"
 	},{
-		"name": "Ice cream Simple Chocolate",
+		"name": "Ice cream Chocolate",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall102.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
+		"collections": "illustration,simple"
+	},
+	{
+		"name": "Smiley yellow",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall63.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,cute,simple"
+	},{
+		"name": "Smiley Green",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall62.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,cute,simple"
+	},{
+		"name": "Smiley",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall53.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,cute"
+	},{
+		"name": "smile",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall55.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
 		"collections": "illustration,cute"
 	},
+	
+	
 {
 		"name": "Pink Gradient Amoled",
 		"author": "YoG",
@@ -454,20 +485,6 @@
 		"desc":"Just experimental Category for walls, adding wall restrictions while giving sweet empty place to make your setup look unique"
 	},
 	{
-		"name": "Smiley yellow",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall63.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,cute,simple"
-	},{
-		"name": "Smiley Green",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall62.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,cute,simple"
-	},{
 		"name": "Airpods white",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/airpodsfinal2.png",
@@ -497,26 +514,12 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,setup specific,material,simple"
 	},{
-		"name": "Smiley",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall53.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,cute"
-	},{
 		"name": "smiley for setup",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall54.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,cute,setup specific"
-	},{
-		"name": "smile",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall55.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,cute"
+		"collections": "illustration,setup specific"
 	},{
 		"name": "Gradient",
 		"author": "YoG",
