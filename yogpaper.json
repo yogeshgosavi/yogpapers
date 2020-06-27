@@ -1,4 +1,43 @@
 [
+{
+		"name": "Cute Cup White",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall103.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,cute",
+		"desc": "Just another Coffee Cup illustration , highly inspired by Ariev Soeharto video on how to draw Cute Cup"
+	},{
+		"name": "Cute Cup Light Orange",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall104.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,cute",
+		"desc": "Just another Coffee Cup illustration , highly inspired by Ariev Soeharto video on how to draw Cute Cup"
+	},{
+		"name": "Cute Cup Dark",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall105.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,cute",
+		"desc": "Just another Coffee Cup illustration , highly inspired by Ariev Soeharto video on how to draw Cute Cup"
+	},{
+		"name": "Ice cream Simple Pink",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall101.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,cute"
+	},{
+		"name": "Ice cream Simple Chocolate",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall102.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,cute"
+	},
 
 {
 		"name": "Pink Gradient Amoled",
@@ -760,6 +799,13 @@
 		"copyright": "Personal Use",
 		"collections": "distorted"
 	},{
+		"name": "visual art wall ",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall4.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "distorted"
+	},{
 		"name": "Waves Oil Paint",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall6.png",
@@ -920,4 +966,5 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,pattern"
 	}
+	
 ]
