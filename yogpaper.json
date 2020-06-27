@@ -238,6 +238,13 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,cute"
 	},{
+		"name": "Space Wall",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/space1.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,simple"
+	},{
 		"name": "Retro Sunset",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall81.png",
@@ -246,15 +253,6 @@
 		"collections": "illustration",
 		"desc": "just another wallpaper inspired by all those retro sunsets\n You see on internet"
 	},{
-		"name": "Retro Blue",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall82.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration",
-		"desc": "just another wallpaper inspired by all those retro sunsets you see on internet"
-
-	},{
 		"name": "Avacado",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall43.png",
@@ -262,13 +260,71 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,simple"
 	},{
-		"name": "Space Wall",
+		"name": "Simple Beach",
 		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/space1.png",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall92.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration"
+	},
+	{
+		"name": "Stack Purple",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall41.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,simple"
+	},{
+		"name": "Stack Green",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall42.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,cute"
+	},
+	{
+		"name": "Android logo white",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall22.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,simple"
+	},{
+		"name": "Android logo black",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall23.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,simple"
+	},{
+		"name": "Android logo Navy",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall24.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "illustration,simple"
 	},
+	{
+		"name": "Simple yellow wall",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall11.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "simple,illustration"
+	},{
+		"name": "Simple Blue wall",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall11alt.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "simple,illustration"
+	},
+	
+	
+	
+	
+	
+	
 	
 {
 		"name": "Pink Gradient Amoled",
@@ -380,13 +436,6 @@
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "illustration,material"
-	},{
-		"name": "Simple Beach",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall92.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration"
 	},
 {
 		"name": "Pattern White",
@@ -631,41 +680,6 @@
 		"collections": "illustration,Material"
 	},
 {
-		"name": "Stack Purple",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall41.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,simple"
-	},{
-		"name": "Stack Green",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall42.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,cute"
-	},{
-		"name": "Android logo white",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall22.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,simple"
-	},{
-		"name": "Android logo black",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall23.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,simple"
-	},{
-		"name": "Android logo Navy",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall24.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,simple"
-	},{
 		"name": "Mesh Gradient",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall19.png",
@@ -744,20 +758,6 @@
 		"collections": "illustration,pattern"
 	},
 	{
-		"name": "Simple yellow wall",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall11.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "simple,illustration"
-	},{
-		"name": "Simple Blue wall",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall11alt.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "simple,illustration"
-	},{
 		"name": "Doodle Art",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall13.png",
