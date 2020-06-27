@@ -393,32 +393,10 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,gradient"
 	},
-	
-	{
-		"name": "Material Waves 1",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall88.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,setup specific",
-		"desc": "Just Another Material wave Wallpaper, keep widgets and icons on white with text color optain from below pallet"
-	},{
-		"name": "Material Waves 2",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall89.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,setup specific",
-		"desc": "Just Another Material wave Wallpaper, keep widgets and icons on navy color with text color optain from below pallet"
-	},{
-		"name": "Material Waves Variation",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall90.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,setup specific",
-		"desc": "Just another varient"
-	},{
+
+
+
+{
 		"name": "White Grid Wallpaper",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall95.png",
@@ -451,6 +429,31 @@
 		"copyright": "Personal Use",
 		"collections": "illustration",
 		"desc": "Simple Wallpaper suits most homescreen setups you can think of"
+	},
+	{
+		"name": "Material Waves 1",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall88.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,setup specific",
+		"desc": "Just Another Material wave Wallpaper, keep widgets and icons on white with text color optain from below pallet"
+	},{
+		"name": "Material Waves 2",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall89.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,setup specific",
+		"desc": "Just Another Material wave Wallpaper, keep widgets and icons on navy color with text color optain from below pallet"
+	},{
+		"name": "Material Waves Variation",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall90.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,setup specific",
+		"desc": "Just another varient"
 	},{
 		"name": "Material Waves 1",
 		"author": "YoG",
@@ -574,6 +577,86 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,Pattern"
 	},
+	{
+		"name": "pattern yellow",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall15.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,pattern"
+	},{
+		"name": "pattern purple",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall16.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,pattern"
+	},{
+		"name": "pattern black",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall17.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,pattern"
+	},{
+		"name": "pattern dark yellow",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall17alt.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,pattern"
+	},{
+		"name": "pattern dark Blur",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall17alt1.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,pattern"
+	},{
+		"name": "Avacado pattern green",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall45.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,pattern"
+	},{
+		"name": "Avacado Pattern Greyscale",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall46.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,pattern"
+	},
+	{
+		"name": "Doodle Art",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall13.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,doodle"
+	},{
+		"name": "Doodle Art",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall14.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,doodle"
+	},{
+		"name": "Pattern ",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall3.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,pattern"
+	},
+	{
+		"name": "Cross Pink",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall57.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,pattern"
+	},
 {
 		"name": "Melting Yellow White ",
 		"author": "YoG",
@@ -665,13 +748,6 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,setup specific"
 	},{
-		"name": "Cross Pink",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall57.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,pattern"
-	},{
 		"name": " Sun ",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall60.png",
@@ -709,70 +785,6 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,pattern"
 	},{
-		"name": "pattern yellow",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall15.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,pattern"
-	},{
-		"name": "pattern purple",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall16.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,pattern"
-	},{
-		"name": "pattern black",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall17.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,pattern"
-	},{
-		"name": "pattern dark yellow",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall17alt.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,pattern"
-	},{
-		"name": "pattern dark Blur",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall17alt1.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,pattern"
-	},{
-		"name": "Avacado pattern green",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall45.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,pattern"
-	},{
-		"name": "Avacado Pattern Greyscale",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall46.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,pattern"
-	},
-	{
-		"name": "Doodle Art",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall13.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,doodle"
-	},{
-		"name": "Doodle Art",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall14.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,doodle"
-	},{
 		"name": "Darkness",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall1.png",
@@ -786,13 +798,6 @@
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "distorted"
-	},{
-		"name": "Pattern ",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall3.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "illustration,pattern"
 	},{
 		"name": "Fractal Art",
 		"author": "YoG",
