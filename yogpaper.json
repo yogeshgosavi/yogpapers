@@ -1,6 +1,6 @@
 [
 {
-		"name": "ice Cream 1 ",
+		"name": "Ice Cream 1 ",
 		"author": "YoG",
 		"url": "https://raw.githubusercontent.com/yogeshgosavi/yogpapers/master/walls/icecream2.png",
 		"downloadable": true,
@@ -8,7 +8,7 @@
 		"collections": "illustration,cute",
 		"desc": "made by following an youtube video, i just love how it turned out"
 	},{
-		"name": "ice Cream 2",
+		"name": "Ice Cream 2",
 		"author": "YoG",
 		"url": "https://raw.githubusercontent.com/yogeshgosavi/yogpapers/master/walls/icecream3.png",
 		"downloadable": true,
@@ -16,14 +16,14 @@
 		"collections": "illustration,cute",
 		"desc": "made by following an youtube video, i just love how it turned out"
 	},{
-		"name": "ice Cream 3",
+		"name": "Ice Cream 3",
 		"author": "YoG",
 		"url": "https://raw.githubusercontent.com/yogeshgosavi/yogpapers/master/walls/icecream4.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"desc": "made by following an youtube video, i just love how it turned out"
 	},{
-		"name": "ice Cream 4",
+		"name": "Ice Cream 4",
 		"author": "YoG",
 		"url": "https://raw.githubusercontent.com/yogeshgosavi/yogpapers/master/walls/icecream1.png",
 		"downloadable": true,
@@ -35,28 +35,32 @@
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall31.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,cute"
+		"collections": "illustration,cute",
+		"desc":"made by following an youtube video by Graphic Design Gear"
 	},{
 		"name": "Milkshake cup yellow",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall32.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,cute"
+		"collections": "illustration,cute",
+		"desc":"made by following an youtube video by Graphic Design Gear"
 	},{
 		"name": " Milkshake cup light orange",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall33.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,cute"
+		"collections": "illustration,cute",
+		"desc":"made by following an youtube video by Graphic Design Gear"
 	},{
 		"name": "Milkshake cup Dark",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall35.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,cute"
+		"collections": "illustration,cute",
+		"desc":"made by following an youtube video by Graphic Design Gear"
 	},{
 		"name": "Mushroom light orange",
 		"author": "YoG",
@@ -141,7 +145,7 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,characters"
 	},{
-		"name": "flash White",
+		"name": "Flash White",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall51.png",
 		"downloadable": true,
@@ -189,6 +193,31 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,characters"
 	},{
+		"name": "Batman Logo Amoled",
+		"author": "YoG",
+		"url": "https://raw.githubusercontent.com/yogeshgosavi/yogpapers/master/walls/wall112.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,characters",
+		"desc": "Did you know? inorder to accesss the Batcave in most adaptations of Batman, the hands of the grandfather clock must be turned to 10:47,the time Bruce Wayne's parents were murdered."
+	},{
+		"name": "Batman Logo Yellow ",
+		"author": "YoG",
+		"url": "https://raw.githubusercontent.com/yogeshgosavi/yogpapers/master/walls/wall111.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,characters",
+		"desc": "Did you know? inorder to accesss the Batcave in most adaptations of Batman, the hands of the grandfather clock must be turned to 10:47,the time Bruce Wayne's parents were murdered."
+	},{
+		"name": "Batman Logo Red ",
+		"author": "YoG",
+		"url": "https://raw.githubusercontent.com/yogeshgosavi/yogpapers/master/walls/wall113.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,characters",
+		"desc": "Did you know? inorder to accesss the Batcave in most adaptations of Batman, the hands of the grandfather clock must be turned to 10:47,the time Bruce Wayne's parents were murdered."
+	},
+	{
 		"name": "Airpods white",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/airpodsfinal2.png",
@@ -231,7 +260,7 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,cute"
 	},{
-		"name": "smile",
+		"name": "Smile",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall55.png",
 		"downloadable": true,
@@ -478,28 +507,28 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,pattern"
 	},{
-		"name": "pattern purple",
+		"name": "Pattern Purple",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall16.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "illustration,pattern"
 	},{
-		"name": "pattern black",
+		"name": "Pattern Black",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall17.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "illustration,pattern"
 	},{
-		"name": "pattern dark yellow",
+		"name": "Pattern Dark Yellow",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall17alt.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "illustration,pattern"
 	},{
-		"name": "pattern dark Blur",
+		"name": "Pattern Dark Blur",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall17alt1.png",
 		"downloadable": true,
@@ -543,6 +572,28 @@
 		"collections": "illustration,pattern"
 	},
 	{
+		"name": "Blob Puddle pink",
+		"author": "YoG",
+		"url": "https://raw.githubusercontent.com/yogeshgosavi/yogpapers/master/walls/wall108.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration"
+		},{
+		"name": "Blob Puddle pink Blue",
+		"author": "YoG",
+		"url": "https://raw.githubusercontent.com/yogeshgosavi/yogpapers/master/walls/wall107.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration"
+	},{
+		"name": "Blob Puddle Blue Gray ",
+		"author": "YoG",
+		"url": "https://raw.githubusercontent.com/yogeshgosavi/yogpapers/master/walls/wall110.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration"
+	},
+	{
 		"name": "Cross Pink",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall57.png",
@@ -550,13 +601,38 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,pattern"
 	},
+	{
+		"name": "Spaceship Setup Amoled",
+		"author": "YoG",
+		"url": "https://raw.githubusercontent.com/yogeshgosavi/yogpapers/master/walls/alien1.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,setup specific",
+		"desc": "Setup Specific wall, be creative ;) maybe place your icons weirdly so it looks like aliens are here to take away your apps"
+	},{
+		"name": " Spaceship Setup Navy Blue",
+		"author": "YoG",
+		"url": "https://raw.githubusercontent.com/yogeshgosavi/yogpapers/master/walls/alien2.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,setup specific",
+		"desc": "Setup Specific wall, be creative ;) maybe place your icons weirdly so it looks like aliens are here to take away your apps"
+		},{
+		"name": "Spaceship Setup White",
+		"author": "YoG",
+		"url": "https://raw.githubusercontent.com/yogeshgosavi/yogpapers/master/walls/alien3.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,setup specific",
+		"desc": "Setup Specific wall, be creative ;) maybe place your icons weirdly so it looks like aliens are here to take away your apps"
+		},
 {
 		"name": "Material Waves 1",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall88.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,setup specific",
+		"collections": "illustration,setup specific,fluid",
 		"desc": "Just Another Material wave Wallpaper, keep widgets and icons on white with text color optain from below pallet"
 	},{
 		"name": "Material Waves 2",
@@ -564,7 +640,7 @@
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall89.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,setup specific",
+		"collections": "illustration,setup specific,fluid",
 		"desc": "Just Another Material wave Wallpaper, keep widgets and icons on navy color with text color optain from below pallet"
 	},{
 		"name": "Material Waves Variation",
@@ -572,7 +648,7 @@
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall90.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,setup specific",
+		"collections": "illustration,setup specific,fluid",
 		"desc": "Just another varient"
 	},
 	{
@@ -680,7 +756,7 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,setup specific,material,simple"
 	},{
-		"name": "smiley for setup",
+		"name": "Smiley for setup",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall54.png",
 		"downloadable": true,
@@ -695,7 +771,7 @@
 		"collections": "illustration,simple"
 	},
 {
-		"name": "yellow tree",
+		"name": "Yellow Tree",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall18.png",
 		"downloadable": true,
@@ -769,7 +845,6 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,gradient"
 	},
-	
 	{
 		"name": "Darkness",
 		"author": "YoG",
@@ -792,7 +867,7 @@
 		"copyright": "Personal Use",
 		"collections": "distorted"
 	},{
-		"name": "visual art wall ",
+		"name": "Visual art wall ",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall4.png",
 		"downloadable": true,
@@ -910,7 +985,7 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,pattern"
 	},{
-		"name": "fluid wall",
+		"name": "Fluid wall",
 		"author": "YoG",
 		"url": "https://drive.google.com/uc?id=14pm8DC0ZnPmdxapZIfMVYQFowA6fxJcd",
 		"downloadable": true,
