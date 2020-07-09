@@ -1,5 +1,77 @@
 [
 {
+		"name": "Burger 1",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wal219.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,cute",
+		"desc": "Burger illustration , just another cute food illustration"
+	},{
+		"name": "Burger 2",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall220.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,cute",
+		"desc": "Burger illustration , just another cute food illustration"
+	},{
+		"name": "Burger 3",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall221.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,cute",
+		"desc": "Burger illustration , just another cute food illustration"
+	},{
+		"name": "Burger 4",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall222.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,cute",
+		"desc": "Burger illustration , just another cute food illustration"
+	},
+	{
+		"name": "Abstract Fluid",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall225.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "distorted",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/thumb-093.png",
+		"desc": "Just another distorted wallpaper"
+	},	{
+		"name": "Abstract Fluid reflect",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall226.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "distorted",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/thumb-092.png",
+		"desc": "Just another distorted wallpaper"
+	},
+	{
+		"name": "Mind Palace 1",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall223.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "distorted",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/thumb-095.png",
+		"desc": "unique Fractal wallpaper"
+	},
+	{
+		"name": "Mind Palace 2",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall224.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "distorted",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/thumb-094.png",
+		"desc": "unique Fractal wallpaper"
+	},
+{
 		"name": "Abstract Sky blue",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall118.png",
@@ -672,12 +744,14 @@
 		"collections": "illustration,fluid"
 	},
 {
-		"name": "Notebook Cover",
+		"name": "Notebook back Cover",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wallpattern.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,setup specific"
+		"collections": "illustration,setup specific",
+		"desc":"i honestly love feel of using this wall for making setups, feels like holding notebook in hand"
+
 	},{
 		"name": "Notebook Cover",
 		"author": "YoG",
@@ -686,7 +760,42 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,setup specific",
 		"desc":"i honestly love feel of using this wall for making setups, feels like holding notebook in hand"
+	},
+	{
+		"name": "Notebook amoled black back Cover",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall125.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,setup specific",
+		"desc":"made after seeing setup made by Nidhin newjersey with his modified version of joywalls notebook wall"
+
 	},{
+		"name": "Notebook amoled black Cover",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall124.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,setup specific",
+		"desc":"made after seeing setup made by Nidhin newjersey with his modified version of joywalls notebook wall"
+	},	{
+		"name": "Notebook white back Cover",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall127.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,setup specific",
+		"desc":"just another varient of notebook wall , this looks more like paper than notebook but yeah"
+	},{
+		"name": "Notebook white black Cover",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall126.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,setup specific",
+		"desc":"just another varient of notebook wall , this looks more like paper than notebook but yeah"
+	},
+	{
 		"name": "Device Mockup Light",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/MdSpeciall.png",
