@@ -32,49 +32,6 @@
 		"collections": "illustration,cute",
 		"desc": "Burger illustration , just another cute food illustration"
 	},
-	{
-		"name": "Abstract Fluid",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall225.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "distorted",
-		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/thumb-093.png",
-		"size":"1970000",
-		"desc": "Just another distorted wallpaper"
-	},	{
-		"name": "Abstract Fluid reflect",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall226.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "distorted",
-		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/thumb-092.png",
-		"size":"2400000",
-		"desc": "Just another distorted wallpaper"
-	},
-	{
-		"name": "Mind Palace 1",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall223.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "distorted",
-		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/thumb-095.png",
-		"size":"8770000",
-		"desc": "unique Fractal wallpaper"
-	},
-	{
-		"name": "Mind Palace 2",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall224.png",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"collections": "distorted",
-		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/thumb-094.png",
-		"size":"8580000",
-		"desc": "unique Fractal wallpaper"
-	},
 {
 		"name": "Abstract Sky blue",
 		"author": "YoG",
@@ -1011,6 +968,49 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,characters",
 		"desc": "Did you know? inorder to accesss the Batcave, the hands of the grandfather clock must be turned to 10:47,the time Bruce Wayne's parents were murdered."
+	},
+	{
+		"name": "Abstract Fluid",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall225.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "distorted",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/thumb-093.png",
+		"size":"1970000",
+		"desc": "Just another distorted wallpaper"
+	},	{
+		"name": "Abstract Fluid reflect",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall226.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "distorted",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/thumb-092.png",
+		"size":"2400000",
+		"desc": "Just another distorted wallpaper"
+	},
+	{
+		"name": "Mind Palace 1",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall223.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "distorted",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/thumb-095.png",
+		"size":"8770000",
+		"desc": "unique Fractal wallpaper"
+	},
+	{
+		"name": "Mind Palace 2",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall224.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "distorted",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/thumb-094.png",
+		"size":"8580000",
+		"desc": "unique Fractal wallpaper"
 	},
 	{
 		"name": "Darkness",
