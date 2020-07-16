@@ -1,5 +1,54 @@
 [
 {
+		"name": "XBox Controller Retro",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall227.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration",
+		"desc": "X-Box Controller wallpaper as user requested"
+	},{
+		"name": "XBox Controller Black",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall228.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration",
+		"desc": "X-Box Controller wallpaper as user requested"
+	},{
+		"name": "XBox Controller Navy",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall229.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration",
+		"desc": "X-Box Controller wallpaper as user requested"
+	},{
+		"name": "Pixel Black",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall230.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,Material",
+		"desc": "Pixel like Wallpaper "
+	},{
+		"name": "Pixel Dim white",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall231.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,Material",
+		"desc": "Pixel like Wallpaper "
+	},{
+		"name": "Pixel Light ",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall232.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,Material",
+		"desc": "Pixel like Wallpaper "
+	},	
+{
 		"name": "Burger 1",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall219.png",
@@ -309,7 +358,7 @@
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall92.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration"
+		"collections": "illustration,nature"
 	},
 	{
 		"name": "Stack Purple",
