@@ -1,5 +1,63 @@
 [
 {
+		"name": "Ice Bear Kawaii Pink ",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall233.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,cute",
+		"desc": "Ice Bear Drawnn with by following Drawing Kawaii Cute Animals guide by drawinghowtodraw, Thanks to Nayelle for helping with corrections"
+	},{
+		"name": "Ice Bear Kawaii Light Orange ",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall234.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,cute",
+		"desc": "Ice Bear Drawnn with by following Drawing Kawaii Cute Animals guide by drawinghowtodraw,Thanks to Nayelle for helping with corrections"
+	},{
+		"name": "Ice Bear Kawaii White ",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall235.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,cute",
+		"desc": "Ice Bear Drawnn with by following Drawing Kawaii Cute Animals guide by drawinghowtodraw,Thanks to Nayelle for helping with corrections"
+	},{
+		"name": "Ice Bear Kawaii Black ",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall237.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,cute",
+		"desc": "Ice Bear Drawnn with by following Drawing Kawaii Cute Animals guide by drawinghowtodraw,Thanks to Nayelle for helping with corrections"
+	},{
+		"name": "Turing Pattern White",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall239.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,pattern",
+		"desc": "Turing wall pattern made by seeing uprising trend of Turing walls in Android Community, this one took me about 30 min to form this pattern"
+	},{
+		"name": "Turing Pattern light blue",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall238.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,pattern",
+		"desc": "Turing wall pattern made by seeing uprising trend of Turing walls in Android Community, this one took me about 30 min to form this pattern"
+	},{
+		"name": "Turing Pattern Amoled Black",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall237.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,pattern",
+		"desc": "Turing wall pattern made by seeing uprising trend of Turing walls in Android Community, this one took me about 30 min to form this pattern"
+	},
+
+{
 		"name": "XBox Controller Retro",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall227.png",
@@ -24,28 +82,28 @@
 		"collections": "illustration",
 		"desc": "X-Box Controller wallpaper as user requested"
 	},{
-		"name": "Pixel Black",
+		"name": "Pixel Shapes Black",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall230.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,Material",
+		"collections": "illustration,material",
 		"desc": "Pixel like Wallpaper "
 	},{
-		"name": "Pixel Dim white",
+		"name": "Pixel Shapes Dim white",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall231.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,Material",
+		"collections": "illustration,material",
 		"desc": "Pixel like Wallpaper "
 	},{
-		"name": "Pixel Light ",
+		"name": "Pixel Shapes Light ",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall232.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,Material",
+		"collections": "illustration,material",
 		"desc": "Pixel like Wallpaper "
 	},	
 {
@@ -381,21 +439,21 @@
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall22.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,simple"
+		"collections": "illustration,simple,material"
 	},{
 		"name": "Android logo black",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall23.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,simple"
+		"collections": "illustration,simple,material"
 	},{
 		"name": "Android logo Navy",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall24.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,simple"
+		"collections": "illustration,simple,material"
 	},
 	{
 		"name": "Blue Blobs",
@@ -426,6 +484,15 @@
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "simple,illustration"
+	},
+	{
+		"name": "Blueprint Grid Wallpaper",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall240.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,pattern",
+		"desc": "when you can not find wallpaper that suits your need this type of walls are helpful"
 	},
 {
 		"name": "White Grid Wallpaper",
@@ -490,34 +557,34 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,pattern"
 	},{
-		"name": "Pattern Pixel Black",
+		"name": "lines Pixel Black",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall72.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,pattern"
+		"collections": "illustration,material"
 	},{
-		"name": "Pattern Pixel white",
+		"name": "lines Pixel white",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall72alt.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,pattern"
+		"collections": "illustration,material"
 	},{
-		"name": "Pattern Pixel colorlines dark",
+		"name": "lines Pixel colorlines dark",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall84.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,pattern",
+		"collections": "illustration,material",
 		"desc":"maybe it doesn't look like pixel"
 	},{
-		"name": "Pattern Pixel colorlines white",
+		"name": "lines Pixel colorlines white",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall83.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "illustration,pattern",
+		"collections": "illustration,material",
 		"desc":"maybe it doesn't look like pixel"
 	},{
 		"name": "Pattern Grey",
