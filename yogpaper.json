@@ -2,7 +2,7 @@
 {
 		"name": "Starry Night 1",
 		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall3120.png",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall3120.jpg",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "illustration,nature",
@@ -10,7 +10,7 @@
 		},{
 		"name": "Starry Night 2",
 		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall3121.png",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall3121.jpg",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "illustration,nature",
@@ -18,7 +18,7 @@
 		},{
 		"name": "Starry Night 3",
 		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall319.png",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall319.jpg",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "illustration,nature",
@@ -26,7 +26,7 @@
 		},	{
 		"name": "Fluid wall 1",
 		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall322.png",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall322.jpg",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "distorted",
@@ -34,7 +34,7 @@
 		},	{
 		"name": "Fluid wall 2",
 		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall323.png",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall323.jpg",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "distorted",
@@ -42,12 +42,37 @@
 		},	{
 		"name": "Fluid wall 3",
 		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall324.png",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall324.jpg",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "distorted",
 		"desc":"I love using such fluid walls for homescreen setups.A bit low resolution but output looks cleaner on homescreen "
+		},{
+		"name": "plus pattern 1",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall325.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,pattern",
+		"desc":"plus pattern wall added in app as per user requests"
+		},{
+		"name": "plus pattern 2",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall326.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,pattern",
+		"desc":"plus pattern wall added in app as per user requests"
+		},{
+		"name": "plus pattern 3",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall327.jpg",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "illustration,pattern",
+		"desc":"plus pattern wall added in app as per user requests"
 		},
+		
 {
 		"name": "Calm Wave Gradient 1",
 		"author": "YoG",
