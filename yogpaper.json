@@ -28,19 +28,27 @@
 		"copyright": "Personal Use",
 		"collections": "game,illustration"
 		},{
-		"name": "Bawl Stars Pattern",
+		"name": "Brawl Stars Pattern",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall387.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "game,illustration"
 		},{
-		"name": "Bawl Stars Pattern 2",
+		"name": "Brawl Stars Pattern 2",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall388.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "game,illustration"
+		},
+		{
+		"name": "Brawl Stars Pattern 3",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall396.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "game,illustration,amoled"
 		},{
 		"name": "Mario Bricks Simple setup Pattern",
 		"author": "YoG",
@@ -53,6 +61,14 @@
 		"name": "Bricks Pattern",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall390.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "game,illustration",
+		"desc":"one of the walls i made few weeks ago but procastinated a lot on adding it in app, thanks for sagar for reminding me to add it again and again :v"
+		},{
+		"name": "Bricks Dark",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall395.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "game,illustration",
