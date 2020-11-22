@@ -5,28 +5,69 @@
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall404.jpg",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "game,illustration, my first tries at creating abstract styled wallpapers"
+		"collections":"illustration,gradient",
+		"desc": "my first try at creating abstract styled wallpapers"
 		},{
 		"name": "Abstract Gradient Pink Wave Tinted",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall407.jpg",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "game,illustration, my first tries at creating abstract styled wallpapers"
+		"collections":"illustration,gradient",
+		"desc": "my first try at creating abstract styled wallpapers"
 		},{
 		"name": "Abstract Gradient Blue Wave Amoled",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall405.jpg",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "game,illustration, my first tries at creating abstract styled wallpapers"
+		"collections":"illustration,gradient,amoled",
+		"desc": "my first try at creating abstract styled wallpapers"
 		},{
 		"name": "Abstract Gradient Pink Wave Amoled",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall406.jpg",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections": "game,illustration, my first tries at creating abstract styled wallpapers"
+		"collections":"illustration,gradient,amoled",
+		"desc": "my first try at creating abstract styled wallpapers"
+		},
+		{
+		"name": "Grey Sand",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall408.jpg",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "texture",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall408.jpg",
+		"desc": "i shared this on joywalls telegram group few week before ,i see it getting used more, so adding in app for easier access"
+		},{
+		"name": "Ceramic Black Sand",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall409.jpg",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "texture",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall409.jpg",
+		"desc": "i shared this on joywalls telegram group few week before ,i see it getting used more, so adding in app for easier access"
+		},{
+		"name": "Sea Blue Sand",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall410.jpg",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "texture",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall410.jpg",
+		"desc": "i shared this on joywalls telegram group few week before ,i see it getting used more, so adding in app for easier access"
+		},{
+		"name": "Dark Pink Sand",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall411.jpg",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "texture",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall411.jpg",
+		"desc": "i shared this on joywalls telegram group few week before ,i see it getting used more, so adding in app for easier access"
 		},
 {
 		"name": "Tent 1 ",
