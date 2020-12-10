@@ -1,5 +1,50 @@
 [
 {
+		"name": "beach view 1",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall426.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"illustration,nature"
+		},{
+		"name": "beach view 2",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall427.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"illustration,nature"
+		},{
+		"name": "beach view 3",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall428.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"illustration,nature"
+		},
+		
+{
+		"name": "monument valley boat 1",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall429.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"illustration,nature,game"
+		},{
+		"name": "monument valley boat 2",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall430.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"illustration,nature,game"
+		},{
+		"name": "monument valley boat 3",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall431.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"illustration,nature,game"
+		},
+{
 		"name": "River Side Artistic Pink",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall423.png",
