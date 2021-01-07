@@ -50,6 +50,14 @@
 		"desc": "Sometimes all you need for better setup is Abstract walls like this one"
 		},
 		{
+		"name": "Simplicite Nature",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall463.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"illustration,Quotes"
+		},
+		{
 		"name": "Quotes 1",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall450.png",
@@ -110,7 +118,7 @@
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall439.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections":"illustration,characters,nature",
+		"collections":"illustration,characters",
 		"desc": "this wall took me about 4 hours to work on, but DAMN was it worth it ? heck yeah it is!"
 		},{
 		"name": "Charlee Brown christmas 2",
@@ -118,7 +126,7 @@
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall440.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections":"illustration,characters,nature",
+		"collections":"illustration,characters",
 		"desc": "this wall took me about 4 hours to work on, but DAMN was it worth it ? heck yeah it is!"
 		},{
 		"name": "Charlee Brown christmas 3",
@@ -126,7 +134,7 @@
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall441.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections":"illustration,characters,nature",
+		"collections":"illustration,characters",
 		"desc": "this wall took me about 4 hours to work on, but DAMN was it worth it ? heck yeah it is!"
 		},{
 		"name": "Christmas Snow man 1",
