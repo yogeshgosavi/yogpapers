@@ -41,7 +41,7 @@
 		"collections":"illustration,quotes",
 		"desc":"matches with simple Setup"}
 ,{
-		"name": "Bold Quote 1",
+		"name": "Bold Quote 3",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall501.png",
 		"downloadable": true,
@@ -49,12 +49,12 @@
 		"collections":"illustration,quotes",
 		"desc":"matches with simple Setup"}
 ,{
-		"name": "Bold Quote 1",
+		"name": "Bold Quote 4",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall500.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections":"illustration,quotes",
+		"collections":"illustration,quotes,amoled",
 		"desc":"matches with simple Setup"}
 ,{
 		"name": "Wall testing Quote",
@@ -62,7 +62,7 @@
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall499.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections":"illustration,quotes",
+		"collections":"illustration,quotes,amoled",
 		"desc":"sometimes i really wonder if you guys even see walls i upload each week ;p show some love with 5 stars will you?"}
 ,{
 		"name": "Another bold quote",
