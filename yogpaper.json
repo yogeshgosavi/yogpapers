@@ -16,12 +16,12 @@
 		"collections":"illustration,cute",
 		"desc":"I love how it turned out,inspired by artworks of Xiu yuan dribble artist"}
 ,{
-		"name": "Omlet breakfast 1",
+		"name": "Omlet breakfast 3",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall507.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections":"illustration,cute",
+		"collections":"illustration,cute,quotes",
 		"desc":"I love how it turned out,inspired by artworks of Xiu yuan dribble artist"}
 ,
 {
@@ -409,7 +409,7 @@
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall463.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections":"illustration,Quotes"
+		"collections":"illustration,quotes"
 		},
 		{
 		"name": "Quotes 1",
@@ -417,7 +417,7 @@
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall450.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections":"illustration,Quotes",
+		"collections":"illustration,quotes",
 		"desc": "why not start something new this year? i am terrible at font choices, i have been told this 100 times by now , So i am gonna improvise , hope you'll enjoy seeing more quotes"
 		},{
 		"name": "Quotes 1 alt",
@@ -425,7 +425,7 @@
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall451.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections":"illustration,Quotes",
+		"collections":"illustration,quotes",
 		"desc": "why not start something new this year? i am terrible at font choices, i have been told this 100 times by now , So i am gonna improvise , hope you'll enjoy seeing more quotes"
 		},{
 		"name": "Quotes 2",
@@ -433,7 +433,7 @@
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall452.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections":"illustration,Quotes",
+		"collections":"illustration,quotes",
 		"desc": "why not start something new this year? i am terrible at font choices, i have been told this 100 times by now , So i am gonna improvise , hope you'll enjoy seeing more quotes"
 		},{
 		"name": "Quotes 3",
@@ -441,7 +441,7 @@
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall453.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections":"illustration,Quotes",
+		"collections":"illustration,quotes",
 		"desc": "why not start something new this year? i am terrible at font choices, i have been told this 100 times by now , So i am gonna improvise , hope you'll enjoy seeing more quotes"
 		},
 		{
@@ -450,21 +450,21 @@
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall455.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections":"illustration,Quotes"
+		"collections":"illustration,quotes"
 		},{
 		"name": "Quotes 5",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall454.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections":"illustration,Quotes"
+		"collections":"illustration,quotes"
 		},{
 		"name": "Quotes 5 alt",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall456.png",
 		"downloadable": true,
 		"copyright": "Personal Use",
-		"collections":"illustration,Quotes"
+		"collections":"illustration,quotes"
 		},
 		{
 		"name": "Charlee Brown christmas 1",
