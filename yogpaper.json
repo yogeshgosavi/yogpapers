@@ -1,5 +1,91 @@
 [
 {
+		"name": "marbelous Blue",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall520.jpg",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall520.jpg",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"illustration,texture",
+		"desc":"First attempt at using affinity designer ;)"}
+,{
+		"name": "marbelous Orange",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall521.jpg",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall521.jpg",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"illustration,texture",
+		"desc":"First attempt at using affinity designer ;)"}
+,{
+		"name": "marbelous Black",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall519.jpg",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall519.jpg",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"illustration,texture",
+		"desc":"First attempt at using affinity designer ;)"}
+,{
+		"name": "Life Quote",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall518.jpg",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall518.jpg",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"illustration,quote",
+		"desc":"Do Expect some improved quality walls as i explore more of affinity"}
+,{
+		"name": "Life Quote Alt",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall517.jpg",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall517.jpg",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"illustration,quote",
+		"desc":"Do Expect some improved quality walls as i explore more of affinity"}
+,{
+		"name": "Day in life Quote",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall516.jpg",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall516.jpg",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"illustration,quote"}
+,{
+		"name": "Day in life Quote alt",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall515.jpg",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall515.jpg",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"illustration,quote"}
+,{
+		"name": "life Quote 1",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall514.jpg",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall514.jpg",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"illustration,quote"}
+,{
+		"name": "life Quote 2",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall513.jpg",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall513.jpg",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"illustration,quote"}
+,{
+		"name": "life Quote 3",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall512.jpg",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall512.jpg",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"illustration,quote"}
+,
+{
 		"name": "Koi pond 1",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall508.png",
