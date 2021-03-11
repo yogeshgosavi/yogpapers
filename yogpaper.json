@@ -1,5 +1,40 @@
 [
 {
+		"name": "Grainy Love Quote",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall523.jpg",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall523.jpg",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"illustration,quote,amoled",
+		"desc":"Trying out Some Text effects"}
+,
+{
+		"name": "Love Quote",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall522.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"illustration,quote",
+		"desc":"Trying out Some Text effects, smaller update this week but it's best i could do in busy week"}
+,{
+		"name": "Dark Love Quote",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall523.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"illustration,quote,amoled",
+		"desc":"Trying out Some Text effects"}
+,{
+		"name": "Hope Quote",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall524.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"illustration,quote,amoled",
+		"desc":"Trying out Some Text effects"}
+,
+{
 		"name": "marbelous Blue",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall520.jpg",
