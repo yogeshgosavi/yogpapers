@@ -31,17 +31,7 @@
 		"desc":"A bit of noise can turn simple walls into much interesting looking one, inspired by Forest artwork by Lars Lundberg dribbble",
 		"collections":"texture,illustration,nature"
 		},
-		{
-		"name": "Dimed Green Dust Geometric Nature",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall552.jpg",
-		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall552.jpg",
-		"size":"1499463",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"desc":"A confused output? bit tooo much green bit tooo less exposure but still looks perfect? i'm not confused you are.",
-		"collections":"texture,illustration,nature"
-		},{
+{
 		"name": "Blue Night Dust Geometric Nature",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall551.jpg",
@@ -68,17 +58,6 @@
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall548.jpg",
 		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall548.jpg",
 		"size":"2988441",
-		"downloadable": true,
-		"copyright": "Personal Use",
-		"desc":"Camauflage wall dim it down a bit so your widgets elements looks clearly visible",
-		"collections":"texture,illustration,pattern"
-		},
-{
-		"name": "Cool tone green Camauflage",
-		"author": "YoG",
-		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall549.jpg",
-		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall549.jpg",
-		"size":"3785359",
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"desc":"Camauflage wall dim it down a bit so your widgets elements looks clearly visible",
