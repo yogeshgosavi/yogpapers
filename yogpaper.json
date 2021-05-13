@@ -1,4 +1,78 @@
 [
+{
+		"name": "Desert Canyon 1",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall566.jpg",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"desc":"Inspired by style of fluid walls by starkdesigns",
+		"collections":"distorted"
+		},{
+		"name": "Desert Canyon 2",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall567.jpg",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"desc":"Inspired by style of fluid walls by starkdesigns",
+		"collections":"distorted"
+		},{
+		"name": "Desert Canyon 3",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall568.jpg",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"desc":"Inspired by style of fluid walls by starkdesigns",
+		"collections":"distorted"
+		},
+		{
+		"name": "Bolt 1",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall569.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"desc":"nothing new just recreated some Simple but overly used patterns, this is my Pinspiration :v",
+		"collections":"illustration,pattern"
+		},{
+		"name": "Bolt 2",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall570.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"desc":"nothing new just recreated some Simple but overly used patterns, this is my Pinspiration :v",
+		"collections":"illustration,pattern"
+		},{
+		"name": "Bolt 3",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall571.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"desc":"nothing new just recreated some Simple but overly used patterns, this is my Pinspiration :v",
+		"collections":"illustration,pattern"
+		},{
+		"name": "+ve vibes 1",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall572.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"desc":"nothing new just recreated some Simple but overly used patterns, this is my Pinspiration :v ,not my cup of tea but someone might like it",
+		"collections":"illustration,quote"
+		},{
+		"name": "+ve vibes 2",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall573.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"desc":"nothing new just recreated some Simple but overly used patterns, this is my Pinspiration :v ,not my cup of tea but someone might like it",
+		"collections":"illustration,quote"
+		},{
+		"name": "Dream Smthng Dude",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall574.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"desc":"nothing new just recreated some Simple but overly used patterns, this is my Pinspiration :v ,not my cup of tea but someone might like it",
+		"collections":"illustration,quote"
+		},
 		{
 		"name": "nature Artwork 1",
 		"author": "YoG",
@@ -7,7 +81,7 @@
 		"copyright": "Personal Use",
 		"desc":"having aphantesia makes it harder to imagine and create nature artwork but doesn't mean i shouldn't try",
 		"collections":"illustration,nature"
-		},		{
+		},{
 		"name": "nature Artwork 2",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall560.png",
@@ -15,7 +89,7 @@
 		"copyright": "Personal Use",
 		"desc":"having aphantesia makes it harder to imagine and create nature artwork but doesn't mean i shouldn't try",
 		"collections":"illustration,nature"
-		},		{
+		},{
 		"name": "nature Artwork 3",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall561.png",
@@ -23,7 +97,7 @@
 		"copyright": "Personal Use",
 		"desc":"having aphantesia makes it harder to imagine and create nature artwork but doesn't mean i shouldn't try",
 		"collections":"illustration,nature"
-		},		{
+		},{
 		"name": "nature Artwork 4",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall562.png",
@@ -32,7 +106,7 @@
 		"desc":"having aphantesia makes it harder to imagine and create nature artwork but doesn't mean i shouldn't try",
 		"collections":"illustration,nature"
 		},
-				{
+		{
 		"name": "Blend Wall ",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall563.jpg",
