@@ -30,7 +30,7 @@
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"desc":"Ohhh Damn! I love artistic look this wall provides, it's soo refreshing yet so ancient, Makes me think of vincent van gogh oil Paints, and as art lover or doctor who fan this feeling hold lot of value for me",
-		"collections":"distored,pattern"
+		"collections":"distorted,pattern"
 		},{
 		"name": "Artistic camouflage 2",
 		"author": "YoG",
@@ -38,7 +38,8 @@
 		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall614.jpg",
 		"size":"4026531",
 		"downloadable": true,
-		"copyright": "Personal Use"
+		"copyright": "Personal Use",
+		"collections":"distorted,pattern"
 		},{
 		"name": "Artistic camouflage 3",
 		"author": "YoG",
@@ -48,7 +49,7 @@
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"desc":"Ohhh Damn! I love artistic look this wall provides, it's soo refreshing yet so ancient, Makes me think of vincent van gogh oil Paints, and as art lover or doctor who fan this feeling hold lot of value for me",
-		"collections":"distored,pattern"
+		"collections":"distorted,pattern"
 		},{
 		"name": "Artistic camouflage 4",
 		"author": "YoG",
@@ -56,7 +57,8 @@
 		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall616.jpg",
 		"size":"3732930",
 		"downloadable": true,
-		"copyright": "Personal Use"
+		"copyright": "Personal Use",
+		"collections":"distorted,pattern"
 		},
 {
 		"name": "Boo!",
