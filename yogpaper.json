@@ -1,5 +1,83 @@
 [
 {
+		"name": "Graindient 1",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall627.jpg",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall627.jpg",
+		"size":"1855979",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"desc":"Just another Grain Gradient Wallpaper",
+		"collections":"gradient,illustration"
+		},
+		{
+		"name": "Graindient 2",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall626.jpg",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall626.jpg",
+		"size":"2065694",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"gradient,illustration"
+		},
+		{
+		"name": "Graindient 3",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall623.jpg",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall623.jpg",
+		"size":"2988441",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"gradient,illustration"
+		},
+		{
+		"name": "Graindient 4",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall624.jpg",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall624.jpg",
+		"size":"2537553",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"gradient,illustration"
+		},
+		{
+		"name": "Pallet-O1",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall622.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"desc":"Something Simple yet something good?",
+		"collections":"gradient,illustration"
+		},
+		{
+		"name": "Pallet-O2",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall619.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"desc":"Something Simple yet something good?",
+		"collections":"gradient,illustration"
+		},
+		{
+		"name": "Pallet-O3",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall621.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"desc":"Something Simple yet something good?",
+		"collections":"gradient,illustration"
+		},
+		{
+		"name": "Pallet-O4",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall619.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"desc":"Something Simple yet something good?",
+		"collections":"gradient,illustration"
+		},
+		
+{
 		"name": "OEM alike Green",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall618.jpg",
