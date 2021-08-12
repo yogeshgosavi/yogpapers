@@ -1,4 +1,32 @@
 [
+{
+		"name": "rug pattern 1",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall640.jpg",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall640.jpg",
+		"size":"1572864",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"distorted,pattern"
+		},{
+		"name": "rug pattern 2",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall641.jpg",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall641.jpg",
+		"size":"1572864",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"distorted,pattern"
+		},{
+		"name": "rug pattern 3",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall642.jpg",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall642.jpg",
+		"size":"1572864",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"distorted,pattern"
+		},
 	{
 		"name": "Gradient tile 1",
 		"author": "YoG",
@@ -8,7 +36,7 @@
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections":"gradient,illustration,texture"
-		},	{
+		},{
 		"name": "Gradient tile 2",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall637.jpg",
