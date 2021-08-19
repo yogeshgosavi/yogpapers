@@ -1,5 +1,34 @@
 [
 {
+		"name": "Purple-ish",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall643.jpg",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall643.jpg",
+		"size":"1195376",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"distorted,pattern"
+		},
+		{
+		"name": "Pink-ish",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall644.jpg",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall644.jpg",
+		"size":"1195376",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"distorted,pattern"
+		},{
+		"name": "Blue-ish",
+		"author": "YoG",
+		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall645.jpg",
+		"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall645.jpg",
+		"size":"1195376",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"distorted,pattern"
+		},
+{
 		"name": "rug pattern 1",
 		"author": "YoG",
 		"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall640.jpg",
