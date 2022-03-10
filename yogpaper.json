@@ -1,4 +1,36 @@
 [
+	{
+			"name": "Black decorative wall",
+			"author": "YoG",
+			"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall666.jpg",
+			"downloadable": true,
+			"copyright": "Personal Use",
+			"desc": "Sorry for being inactive past four months :) updates are back now"
+			},
+			{
+					"name": "Rhino decorative wall",
+					"author": "YoG",
+					"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall667.jpg",
+					"downloadable": true,
+					"copyright": "Personal Use",
+					"desc": "Sorry for being inactive past four months :) updates are back now"
+					},
+					{
+							"name": "Purple decorative wall",
+							"author": "YoG",
+							"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall668.jpg",
+							"downloadable": true,
+							"copyright": "Personal Use",
+							"desc": "Sorry for being inactive past four months :) updates are back now"
+							},
+							{
+									"name": "Orange decorative wall",
+									"author": "YoG",
+									"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall669.jpg",
+									"downloadable": true,
+									"copyright": "Personal Use",
+									"desc": "Sorry for being inactive past four months :) updates are back now"
+									},
 {
 		"name": "noisy lava fluid",
 		"author": "YoG",
@@ -445,7 +477,7 @@
 		"desc":"Something Simple yet something good? - Apply with external app for better alignment, use courier New font for widgets for better setup",
 		"collections":"simple,illustration"
 		},
-		
+
 {
 		"name": "OEM alike Green",
 		"author": "YoG",
@@ -877,7 +909,7 @@
 		"desc":"Reminder - Everyone you meet is fighting a battle you know nothing about. Be Kind. Always. these two varients for klwp lovers ;)",
 		"collections":"illustration,quote,amoled"
 		},
-		
+
 {
 		"name": "Desert Canyon 1",
 		"author": "YoG",
@@ -1010,7 +1042,7 @@
 		"copyright": "Personal Use",
 		"desc":"i promised one of user that i'll add in joy walls but i forgot to do so , so here i am",
 		"collections":"illustration,distorted"
-		},		
+		},
 {
 		"name": "Abstract Orange",
 		"author": "YoG",
@@ -1152,7 +1184,7 @@
 		"copyright": "Personal Use",
 		"desc":"this looks great with white line icon packs",
 		"collections":"illustration,simple"
-		},	
+		},
 		{
 		"name": "Solid Liquid 3",
 		"author": "YoG",
@@ -1209,7 +1241,7 @@
 		"copyright": "Personal Use",
 		"desc":"Tip- dim the wall as per your preference if you have white text on homescreen it'll make your setup look great",
 		"collections":"distorted"},
-		
+
 {
 		"name": "Melted Earth 2",
 		"author": "YoG",
@@ -1226,7 +1258,7 @@
 		"copyright": "Personal Use",
 		"desc":"Tip- dim the wall as per your preference if you have white text on homescreen it'll make your setup look great",
 		"collections":"distorted"},
-		
+
 {
 		"name": "Wavy Grain Green",
 		"author": "YoG",
@@ -2146,7 +2178,7 @@
 		"copyright": "Personal Use",
 		"collections":"illustration,nature"
 		},
-		
+
 {
 		"name": "monument valley boat 1",
 		"author": "YoG",
@@ -2620,7 +2652,7 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,nature",
 		"desc":"lady walking in windy night, simple nature vector wall"
-		},		
+		},
 {
 		"name": "Halloween Werewolf 1",
 		"author": "YoG",
@@ -4811,5 +4843,5 @@
 		"copyright": "Personal Use",
 		"collections": "illustration,pattern,amoled"
 	}
-	
+
 ]
