@@ -5,7 +5,8 @@
 			"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall666.jpg",
 			"downloadable": true,
 			"copyright": "Personal Use",
-			"desc": "Sorry for being inactive past four months :) updates are back now"
+			"desc": "Sorry for being inactive past four months :) updates are back now",
+			"collections":"pattern"
 			},
 			{
 					"name": "Rhino decorative wall",
@@ -13,7 +14,8 @@
 					"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall667.jpg",
 					"downloadable": true,
 					"copyright": "Personal Use",
-					"desc": "Sorry for being inactive past four months :) updates are back now"
+					"desc": "Sorry for being inactive past four months :) updates are back now",
+					"collections":"pattern"
 					},
 					{
 							"name": "Purple decorative wall",
@@ -21,7 +23,8 @@
 							"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall668.jpg",
 							"downloadable": true,
 							"copyright": "Personal Use",
-							"desc": "Sorry for being inactive past four months :) updates are back now"
+							"desc": "Sorry for being inactive past four months :) updates are back now",
+							"collections":"pattern"
 							},
 							{
 									"name": "Orange decorative wall",
@@ -29,7 +32,8 @@
 									"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall669.jpg",
 									"downloadable": true,
 									"copyright": "Personal Use",
-									"desc": "Sorry for being inactive past four months :) updates are back now"
+									"desc": "Sorry for being inactive past four months :) updates are back now",
+									"collections":"pattern"
 									},
 {
 		"name": "noisy lava fluid",
@@ -399,7 +403,7 @@
 		"desc":"I love how it turned out, made using Affinity designer ;)",
 		"collections":"distorted,illustration,pastel"
 		},
-		
+
 {
 		"name": "Graindient 1",
 		"author": "YoG",
