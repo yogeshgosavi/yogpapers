@@ -1,5 +1,33 @@
 [
-	{
+{
+			"name": "liquid Abstract 1",
+			"author": "YoG",
+			"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall670.jpg",
+"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall670.jpg",
+			"downloadable": true,
+			"copyright": "Personal Use",
+			"collections":"distorted,"
+			},
+{
+			"name": "liquid Abstract 2",
+			"author": "YoG",
+			"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall671.jpg",
+"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall671.jpg",
+
+			"downloadable": true,
+			"copyright": "Personal Use",
+			"collections":"distorted,"
+			},
+{
+			"name": "liquid Abstract 3",
+			"author": "YoG",
+			"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall672.jpg",
+"thumb":"https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall672.jpg",
+			"downloadable": true,
+			"copyright": "Personal Use",
+			"collections":"distorted,"
+			},
+{
 			"name": "Black decorative wall",
 			"author": "YoG",
 			"url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall666.jpg",
