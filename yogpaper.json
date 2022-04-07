@@ -1,6 +1,56 @@
 [
   {
     "author": "YoG",
+    "collections": "distorted,pattern,texture",
+    "copyright": "Personal Use",
+    "downloadable": true,
+    "name": "Cranberry charm dot",
+    "size": "1393130",
+    "thumb": "https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall677.jpg",
+    "url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall677.jpg"
+  },
+  {
+    "author": "YoG",
+    "collections": "distorted,pattern,texture",
+    "copyright": "Personal Use",
+    "downloadable": true,
+    "name": "Salmon glow dot",
+    "size": "1393130",
+    "thumb": "https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall678.jpg",
+    "url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall678.jpg"
+  },
+  {
+    "author": "YoG",
+    "collections": "distorted,pattern,texture",
+    "copyright": "Personal Use",
+    "downloadable": true,
+    "name": "Puerto Rico glow dot",
+    "size": "1393130",
+    "thumb": "https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall679.jpg",
+    "url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall679.jpg"
+  },
+  {
+    "author": "YoG",
+    "collections": "distorted,pattern,texture",
+    "copyright": "Personal Use",
+    "downloadable": true,
+    "name": "Studio glow dot",
+    "size": "1393130",
+    "thumb": "https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall680.jpg",
+    "url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall680.jpg"
+  },
+  {
+    "author": "YoG",
+    "collections": "distorted,pattern,texture",
+    "copyright": "Personal Use",
+    "downloadable": true,
+    "name": "Keppel glow dot",
+    "size": "1393130",
+    "thumb": "https://github.com/yogeshgosavi/yogpapers/raw/master/thumbnail/wall681.jpg",
+    "url": "https://github.com/yogeshgosavi/yogpapers/raw/master/walls/wall681.jpg"
+  },
+  {
+    "author": "YoG",
     "collections": "distorted",
     "copyright": "Personal Use",
     "downloadable": true,
@@ -41,7 +91,7 @@
   },
   {
     "author": "YoG",
-    "collections": "distorted,",
+    "collections": "distorted",
     "copyright": "Personal Use",
     "downloadable": true,
     "name": "liquid Abstract 1",
@@ -50,7 +100,7 @@
   },
   {
     "author": "YoG",
-    "collections": "distorted,",
+    "collections": "distorted",
     "copyright": "Personal Use",
     "downloadable": true,
     "name": "liquid Abstract 2",
@@ -59,7 +109,7 @@
   },
   {
     "author": "YoG",
-    "collections": "distorted,",
+    "collections": "distorted",
     "copyright": "Personal Use",
     "downloadable": true,
     "name": "liquid Abstract 3",
